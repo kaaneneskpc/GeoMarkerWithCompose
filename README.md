@@ -30,7 +30,7 @@ Geo Marker App with Compose and Using Google Maps API.
 <li>Easy Google Maps API Implementation with Google Maps API</li>
 </ul>
 
-# Implementation API 
+# Implementation Maps API 
 
 1. Setting up the dependencies:
 
@@ -46,6 +46,23 @@ The first is the Maps Compose library, and the other two are the Play Services m
 <ul align="left">
 <li>MAPS_API_KEY=YOUR_API_KEY</li></ul>
 
+# Screenshoots 📷 
+
+
+## ✉️ Find me on:
+
+
+[![Medium](https://img.shields.io/badge/Medium-@kaaneneskpc-9146FF?style=for-the-badge&logo=medium&logoColor=white&labelColor=101010)](https://medium.com/@kaaneneskpc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kaaneneskpc-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/kaaneneskpc/)
+[![Twitter](https://img.shields.io/badge/Twitter-@kaaneneskpc-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/kaaneneskpc)
+[![Instagram](https://img.shields.io/badge/Instagram-@kaaneneskpc-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/kaaneneskpc)
+</br>
+
+
+## Contact me:
+
+[![Email](https://img.shields.io/badge/kaaneneskpc1@gmail.com-my_personal_email-EC5252?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:kaaneneskpc1@gmail.com)
+<br />
 
 
 
