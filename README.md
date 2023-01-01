@@ -41,7 +41,7 @@ Geo Marker App with Compose and Using Google Maps API.
 
 The first is the Maps Compose library, and the other two are the Play Services maps SDK and location SDKs. Note that these dependencies already exist in the starter project, so there’s no need to re-add them.
 
-2. Secondly, you need a Google Maps API key for you to be able to use any of Google Maps APIs. You can find instructions on how to get your <a href="https://developers.google.com/maps/documentation/android-sdk/get-api-key">key</a> here. Once you have your key, proceed to add it to your local.properties file as follows:
+2. You need a Google Maps API key for you to be able to use any of Google Maps APIs. You can find instructions on how to get your <a href="https://developers.google.com/maps/documentation/android-sdk/get-api-key">key</a> here. Once you have your key, proceed to add it to your local.properties file as follows:
 
 MAPS_API_KEY=YOUR_API_KEY
 
