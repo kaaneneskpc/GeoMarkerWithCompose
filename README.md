@@ -37,7 +37,7 @@ Geo Marker App with Compose and Using Google Maps API.
 <ul align="left">
 <li>implementation 'com.google.maps.android:maps-compose:2.4.0'</li>
 <li>implementation 'com.google.android.gms:play-services-maps:18.1.0'</li>
-<li>implementation 'com.google.android.gms:play-services-location:20.0.0'</li><br>
+<li>implementation 'com.google.android.gms:play-services-location:20.0.0'</li><br></ul>
 
 The first is the Maps Compose library, and the other two are the Play Services maps SDK and location SDKs. Note that these dependencies already exist in the starter project, so there’s no need to re-add them.
 
